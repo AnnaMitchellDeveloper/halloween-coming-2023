@@ -4,6 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #FFBF00;
+	text-align: center;
 }
 h1{
 	text-align: center;
@@ -49,4 +50,9 @@ button {
 	font-size: 120px;
 	color: #CF0A0A;
 	background-color: #FFE15D;
+}
+@media all and (max-width:800px) {
+	h1 {
+		font-size: 60px;
+	}
 }
