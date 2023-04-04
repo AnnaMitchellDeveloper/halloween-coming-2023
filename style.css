@@ -51,6 +51,13 @@ button {
 	color: #CF0A0A;
 	background-color: #FFE15D;
 }
+footer {
+	margin-top: 50px;
+}
+footer a {
+	color: #FFBF00;
+	
+}
 @media all and (max-width:800px) {
 	h1 {
 		font-size: 60px;
