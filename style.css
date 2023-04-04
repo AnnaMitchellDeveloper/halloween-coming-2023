@@ -1,0 +1,31 @@
+body {
+	font-family: 'Lexend Deca', sans-serif;
+	background-image: url("picture.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #FFBF00;
+}
+h1{
+	text-align: center;
+	font-size: 90px;
+}
+.container {
+	display: flex;
+	justify-content: space-evenly;
+}
+.halloween {
+	background-color: #000000;
+	width: 200px;
+	height: 250px;
+	border-radius: 80px; 
+	margin-top: 100px;
+}
+.block {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.dayX {
+	font-size: 120px;
+	color: #CF0A0A;
+}
